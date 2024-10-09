@@ -1,0 +1,133 @@
+.main-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+    column-gap: 16px;
+    row-gap: 40px;
+}
+.yt-layouts{
+    width: 250px;
+    border-style: none;
+    border-radius: 2px;
+}
+.first-pic{
+    width: 100%;
+
+}
+.first-thumb{
+    width: 250px;
+
+}
+.vid-titles{
+    display: inline-block;
+    width: 250px;
+    vertical-align: top;
+    margin-left: 8px;   
+}
+
+.channel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 15px;
+}
+.vid-author{
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-family: Roboto;
+    font-size: 11.8px;
+    color: rgb(99, 97, 97);
+}
+.vid-stats{
+    margin-top: 4px;
+    margin-bottom: 0;
+    font-family: Roboto;
+    font-size: 11.8px;
+    color: rgb(99, 97, 97);
+}
+
+
+.sec-yt-layouts{
+    width: 250px;
+    border-style: none;
+    border-radius: 2px;
+}
+.sec-pic{
+    width: 100%;
+    object-fit: fill;
+
+}
+.sec-thumb{
+    width: 250px;
+
+}
+.sec-titles{
+    display: inline-block;
+    width: 250px;
+    vertical-align: top;
+    margin-left: 8px;   
+}
+
+.sec-channel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 15px;
+}
+.sec-vid-author{
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-family: Roboto;
+    font-size: 11.8px;
+    color: rgb(99, 97, 97);
+}
+.sec-vid-stats{
+    margin-top: 4px;
+    margin-bottom: 0;
+    font-family: Roboto;
+    font-size: 11.8px;
+    color: rgb(99, 97, 97);
+}
+
+.trd-yt-layouts{
+    width: 250px;
+    border-style: none;
+    border-radius: 2px;
+}
+.trd-pic{
+    width: 100%;
+
+}
+.trd-thumb{
+    width: 250px;
+
+}
+.trd-vid-titles{
+    display: inline-block;
+    width: 250px;
+    vertical-align: top;
+    margin-left: 8px;   
+}
+
+.trd-channel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 15px;
+}
+.trd-vid-author{
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-family: Roboto;
+    font-size: 11.8px;
+    color: rgb(99, 97, 97);
+}
+.trd-vid-stats{
+    margin-top: 4px;
+    margin-bottom: 0;
+    font-family: Roboto;
+    font-size: 11.8px;
+    color: rgb(99, 97, 97);
+}

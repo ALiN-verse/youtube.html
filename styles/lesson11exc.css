@@ -1,0 +1,64 @@
+.main-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    column-gap: 16px;
+    row-gap: 40px;
+}
+
+.yt-layouts{
+    margin-left: 50px;
+    width: 400px;
+    border-style: none;
+    border-radius: 2px;
+}
+.profile-img{
+    width: 100%;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+}
+.prof-thumb{
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+    margin-right: 0;
+}
+.first-pic{
+    width: 100%;
+
+}
+.first-thumb{
+    width: 100%
+
+}
+.vid-titles{
+    display: block;
+    width: 250px;
+    margin-left: 55px; 
+    margin-top: -40px;  
+}
+
+.channel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 15px;
+}
+.vid-author{
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-family: Roboto;
+    font-size: 11.8px;
+    color: rgb(99, 97, 97);
+}
+.vid-stats{
+    margin-top: 4px;
+    margin-bottom: 0;
+    font-family: Roboto;
+    font-size: 11.8px;
+    color: rgb(99, 97, 97);
+}
+
+
